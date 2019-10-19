@@ -1,0 +1,19 @@
+h1{
+    color :maroon;
+    font-size: 200px;
+    text-align: center;
+
+}
+.color_selector{
+    color:blue;
+    float:right;
+}
+p{
+    color: green;
+}
+.position{
+    margin-left: ;
+}
+.cs{
+    color: mediumorchid;
+}
